@@ -24,3 +24,7 @@ O jogo encerra quando todas as minas forem marcadas (botão direito) ou quando u
 acionada (aberta)
 
 ![image](https://user-images.githubusercontent.com/64230498/189788318-1ddc59ee-1c67-41de-ad2f-37899962e719.png)
+---
+IDE: INTELLIJ
+Aluno: Thiago dos Santos
+GRR20211601
