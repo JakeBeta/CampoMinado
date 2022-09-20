@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CampoMinado">
+    <output-path>$PROJECT_DIR$/out/artifacts/CampoMinado</output-path>
+    <root id="archive" name="CampoMinado.jar">
+      <element id="module-output" name="CampoMinado" />
+    </root>
+  </artifact>
+</component>
